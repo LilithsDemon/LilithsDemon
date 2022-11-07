@@ -1,7 +1,7 @@
 <div class="github-stats" align="center" width="100%" margin="auto">
   <img align="center" margin="50px" src="https://github-readme-stats.vercel.app/api?username=lilithsdemon&show_icons=true&theme=dracula"/>
   <img align="center" margin="50px" src="http://github-readme-streak-stats.herokuapp.com?user=lilithsdemon&theme=dracula"/>
-  <img align="center" margin="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilithsdemon&theme=dracula&layout=compact&hide=asp.net,HLSL,shaderlab"/>
+  <img align="center" margin-top="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilithsdemon&theme=dracula&layout=compact&hide=asp.net,HLSL,shaderlab"/>
 </div>
 
 <!--
