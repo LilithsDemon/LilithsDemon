@@ -1,6 +1,8 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilithsdemon)](https://github.com/anuraghazra/github-readme-stats)
+<div class="github-stats" align="center" width="100%" margin="auto">
+  <img align="center" margin="50px" src="https://github-readme-stats.vercel.app/api?username=lilithsdemon&show_icons=true&theme=dracula"/>
+  <img align="center" margin="50px" src="http://github-readme-streak-stats.herokuapp.com?user=lilithsdemon&theme=dracula"/>
+  <img align="center" margin="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilithsdemon&theme=dracula&layout=compact&hide=asp.net,HLSL,shaderlab"/>
+</div>
 
 <!--
 **LilithsDemon/LilithsDemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
